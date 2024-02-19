@@ -24,7 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Rxjs](https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg)
 
 ![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
