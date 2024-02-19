@@ -1,5 +1,5 @@
 ### 🔗 Links
-[Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
+[Resume](https://github.com/Harshk10-star/Harshk10-star/blob/main/harshkuddu.pdf)
 
 ### 👨🏼‍💻 Languages
 
