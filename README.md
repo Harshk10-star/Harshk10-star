@@ -26,5 +26,5 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contributions](https://github.com/Harshk10-star/Harshk10-star/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Contributions](https://github.comHarshk10-star/Harshk10-star/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
