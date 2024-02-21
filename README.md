@@ -1,3 +1,5 @@
+- Currently learning about compliers/making my own
+
 ### 🔗 Links
 [Resume](https://github.com/Harshk10-star/Harshk10-star/blob/main/harshkuddu.pdf)
 
